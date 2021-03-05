@@ -1,0 +1,10 @@
+C:\Users\casle\source\repos\DataBase\bin\Debug\DataBase.dacpac
+C:\Users\casle\source\repos\DataBase\bin\Debug\DataBase.dll
+C:\Users\casle\source\repos\DataBase\bin\Debug\DataBase.pdb
+C:\Users\casle\source\repos\DataBase\obj\Debug\DataBase.sqlprojAssemblyReference.cache
+C:\Users\casle\source\repos\DataBase\obj\Debug\Model.xml
+C:\Users\casle\source\repos\DataBase\obj\Debug\refactor.xml
+C:\Users\casle\source\repos\DataBase\obj\Debug\postdeploy.sql
+C:\Users\casle\source\repos\DataBase\obj\Debug\predeploy.sql
+C:\Users\casle\source\repos\DataBase\obj\Debug\DataBase.dll
+C:\Users\casle\source\repos\DataBase\obj\Debug\DataBase.pdb
