@@ -11,11 +11,12 @@
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Core" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.12" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\DataAccess.csproj" />
-    <ProjectReference Include="..\DataAccessModel\DataAccessModel.csproj" />
+    <ProjectReference Include="..\..\..\..\source\repos\AuthenticationDemo\DataAccessModel\DataAccessModel.csproj" />
+    <ProjectReference Include="..\..\..\..\source\repos\AuthenticationDemo\DataAccess\DataAccess.csproj" />
   </ItemGroup>
 
 </Project>
